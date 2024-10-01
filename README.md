@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... exploring exciting Tech features
 - 🌱 I’m currently learning ... cybersecurity
 - 💞️ I’m looking to collaborate on ... open source documentation
-- 📫 How to reach me ... [@_gracienigma]([url](https://x.com/_gracienigma)) and via gracienigma@gmail.com
+- 📫 How to reach me ... [@[_gracienigma]([url](https://x.com/_gracienigma))] and via gracienigma@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I'm addicted to my screen
 
